@@ -274,10 +274,10 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: black;
+     color: white;
      font-size: 16px;
      line-height: 20px;
-     font-weight: 500;
+     font-weight: 700;
      text-transform: uppercase;
 }
 
