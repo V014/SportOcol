@@ -132,6 +132,11 @@ p {
      font-weight: 500;
      font-size: 15px;
      line-height: 24px;
+     color: gray;
+}
+
+span {
+     color: #fff;
 }
 
 a {
@@ -358,7 +363,7 @@ button {
 }
 
 .text-bg p {
-     color: #fff;
+     color: white;
      font-size: 17px;
      line-height: 28px;
      padding-bottom: 60px;
@@ -463,7 +468,7 @@ button {
 /** discount section **/
 
 .discount {
-     background: url(../images/seats.jpg);
+     background: url(../images/stadium.jpg);
      background-repeat: no-repeat;
      max-width: 100%;
      height: 700px;
@@ -542,7 +547,8 @@ button {
 
 .main_form {
      padding: 40px 30px;
-     background: rgb(0, 93, 143);
+     /*background: rgb(0, 93, 143);*/
+     background: transparent;
 }
 
 .main_form .contactus {
@@ -577,7 +583,8 @@ button {
      border: 2px solid white;
      color: white;
      padding: 13px 0px;
-     background: rgb(0, 93, 143);
+     /*background: rgb(0, 93, 143);*/
+     background: transparent;
      margin: 0 auto;
      max-width: 200px;
      width: 100%;
